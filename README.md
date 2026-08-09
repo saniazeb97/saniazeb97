@@ -3,6 +3,7 @@
 AI Engineer working across computer vision, NLP, and LLM systems — from model fine-tuning and RAG pipelines to real-time inference on edge devices. I like taking systems from messy raw data through to production.
 
 📄 Co-author, [*Scientific Reports* (Nature), 2025](https://doi.org/10.1038/s41598-025-97803-9) — Tuberculosis detection using few-shot learning
+
 🔗 [LinkedIn](https://www.linkedin.com/in/saniazeb) · [Google Scholar](https://scholar.google.com/citations?user=PUeapXIAAAAJ) · saniazaib329@gmail.com
 
 ---
@@ -20,4 +21,4 @@ AI Engineer working across computer vision, NLP, and LLM systems — from model 
 | **[Urdu TV Sentiment Monitoring](https://github.com/saniazeb97/sentiment-monitoring-of-tv-news-shows)** | Speech-to-text + fine-tuned BERT/DistilBERT for real-time sentiment on political TV shows |
 | **[Deepfake Detection](https://github.com/saniazeb97/deepfake-detection-vgg16-lstm)** | VGG16-LSTM pipeline for deepfake video detection, BS thesis project |
 
-📫 Always open to talking about AI engineering, research collaboration, or interesting problems — reach out anytime.
+📫 Always open to talking about AI engineering or interesting problems — reach out anytime.
