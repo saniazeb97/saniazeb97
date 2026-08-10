@@ -1,29 +1,55 @@
-# Hi, I'm Sania Zeb 👋
+# Sania Zeb - Artificial Intelligence Engineer👋
 
-AI Engineer working across computer vision, NLP, and LLM systems — from fine-tuning and RAG pipelines to real-time inference on edge devices. I like taking systems from messy raw data through to production: deployed vision models to Raspberry Pi edge devices, cut RAG retrieval latency by 70% in an enterprise deployment, and built LLM evaluation frameworks combining automated metrics with LLM-as-judge review.
+I help turn raw data and AI ideas into working, deployed systems — from LLM-powered chatbots and RAG pipelines to real-time computer vision on edge devices. 3 years building production AI systems, with a peer-reviewed publication in medical AI.
 
 📄 Co-author, [*Scientific Reports* (Nature), 2025](https://doi.org/10.1038/s41598-025-97803-9) — Tuberculosis detection using few-shot learning
 
-🔗 [LinkedIn](https://www.linkedin.com/in/saniazeb) · [Google Scholar](https://scholar.google.com/citations?user=PUeapXIAAAAJ) · saniazaib329@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/saniazeb) · [Google Scholar](https://scholar.google.com/citations?user=PUeapXIAAAAJ) ·
 
 ---
 
-### 🔧 What I work with
-`Python` `PyTorch` `TensorFlow` `Hugging Face` · `LangChain` `RAG` `Knowledge Graphs` `LoRA/QLoRA` · `OpenCV` `YOLO` `VLMs` · `Docker` `FastAPI` `Azure` · `Tableau` `SQL`
+## Selected work highlights
+- Digitized civil engineering drawings with **OCR + object detection**, automating manual quantity takeoff work
+- Deployed real-time computer vision to **Raspberry Pi edge devices** via MQTT for live camera inference
+- Fine-tuned LLMs (Mistral, Llama3, OpenAI, Azure-hosted) using PEFT techniques for domain-specific inference
+- Built and deployed an enterprise RAG search system
 
-### 💡 Selected work highlights
-- Designed an intent-based query-routing system directing factual queries to Knowledge Graph + RAG and generative queries to a fine-tuned LLM
-- Built a multi-layered LLM evaluation framework combining automated accuracy metrics with LLM-as-judge review
-- Deployed real-time computer vision (YOLO, InsightFace) to Raspberry Pi edge devices via MQTT, cutting response latency by 70% in one deployment
-- Fine-tuned LLMs (Mistral, Llama3, OpenAI, Azure-hosted) using LoRA/QLoRA for domain-specific inference
+---
 
-### 📌 Pinned projects
+## Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[InsightBot](https://github.com/saniazeb97/insightbot)** | LangChain SQL agent that generates and runs live SQL from natural-language questions for conversational analytics | `LangChain` `Tool Calling` `MySQL` `Streamlit` `Python` |
-| **[Urdu TV Sentiment Monitoring](https://github.com/saniazeb97/sentiment-monitoring-of-tv-news-shows)** | Speech-to-text + fine-tuned transformer models for real-time sentiment classification on political TV shows | `Whisper` `BERT` `DistilBERT` `FastAPI` `Streamlit` |
-| **[NYC Trends Analysis](https://github.com/saniazeb97/nyc-trends-tableau)** | EDA, correlation analysis, and interactive dashboards across Airbnb, Census, and NYPD crime data | `Python` `Pandas` `Tableau` |
-| **[Deepfake Detection](https://github.com/saniazeb97/deepfake-detection-vgg16-lstm)** | CNN-LSTM pipeline for deepfake video detection via facial inconsistency analysis, BS thesis project | `PyTorch` `VGG16` `LSTM` `OpenCV` |
+### 🔹 Conversational analytics agent
+**Problem:** Non-technical users needed to query live product data without writing SQL.
+**Built:** A LangChain agent that turns natural-language questions into live SQL queries against a MySQL database, with a Streamlit dashboard for visual analytics.
+**Stack:** `LangChain` `Tool Calling` `MySQL` `Streamlit`
+🔗 [View project](https://github.com/saniazeb97/insightbot)
 
-📫 Always open to talking about AI engineering or interesting problems — reach out anytime.
+### 🔹 Real-time sentiment monitoring
+**Problem:** A media client needed to track speaker sentiment across live TV broadcasts, in Urdu.
+**Built:** A pipeline that transcribes audio (Whisper), then classifies speaker sentiment per topic using fine-tuned BERT/DistilBERT models, served through a FastAPI backend.
+**Stack:** `Whisper` `BERT` `DistilBERT` `FastAPI` `Streamlit`
+🔗 [View project](https://github.com/saniazeb97/sentiment-monitoring-of-tv-news-shows)
+
+### 🔹 Deepfake video detection
+**Problem:** Detecting manipulated video content through facial inconsistency analysis.
+**Built:** A CNN-LSTM pipeline analyzing frame-level facial features to flag deepfake video.
+**Stack:** `PyTorch` `VGG16` `LSTM` `OpenCV` `Streamlit`
+🔗 [View project](https://github.com/saniazeb97/deepfake-detection-vgg16-lstm)
+
+### 🔹 Multi-source data analysis & dashboards
+**Problem:** A client wanted to understand how income, housing, and safety intersect across NYC boroughs.
+**Built:** Correlation analysis across Airbnb, Census, and NYPD datasets, with interactive Tableau dashboards for non-technical stakeholders.
+**Stack:** `Python` `Pandas` `Tableau`
+🔗 [View project](https://github.com/saniazeb97/nyc-trends-tableau)
+
+---
+
+## Tools I work with
+`Python` `PyTorch` `TensorFlow` `Hugging Face` · `LangChain` `RAG` `Knowledge Graphs` `LoRA/QLoRA` · `OpenCV` `YOLO` `VLMs` · `FAISS` `Docker` `FastAPI` `Azure` · `SQL` `Tableau`
+
+---
+
+## Let's work together
+Always open to talking about AI engineering or interesting problems, from a focused prototype to a full production build. If you have a data problem, an AI feature you want built, or a system that needs to move from idea to deployment, feel free to reach out.
+
+📫 **saniazaib329@gmail.com**
