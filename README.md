@@ -1,6 +1,6 @@
 # Sania Zeb - Artificial Intelligence Engineer
 
-I help turn raw data and AI ideas into working, deployed systems — from LLM-powered chatbots and RAG pipelines to real-time computer vision on edge devices. 3 years building production AI systems, with a peer-reviewed publication in medical AI.
+With 3 years of experience, I turn raw data and AI ideas into deployed, production-ready systems — from LLM-powered chatbots and RAG pipelines to real-time computer vision on edge devices. Peer-reviewed contributor to medical AI research (Scientific Reports, Nature).
 
 📄 Co-author, [*Scientific Reports* (Nature), 2025](https://doi.org/10.1038/s41598-025-97803-9) — Tuberculosis detection using few-shot learning
 
