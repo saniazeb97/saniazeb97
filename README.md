@@ -4,7 +4,7 @@ With 3 years of experience, I turn raw data and AI ideas into deployed, producti
 
 📄 Co-author, [*Scientific Reports* (Nature), 2025](https://doi.org/10.1038/s41598-025-97803-9) — Tuberculosis detection using few-shot learning
 
-🔗 [LinkedIn](https://www.linkedin.com/in/saniazeb) · [Google Scholar](https://scholar.google.com/citations?user=PUeapXIAAAAJ) ·
+🔗 [LinkedIn](https://www.linkedin.com/in/saniazeb) · [Google Scholar](https://scholar.google.com/citations?user=PUeapXIAAAAJ) · saniazaib329@gmail.com
 
 ---
 
@@ -49,7 +49,3 @@ With 3 years of experience, I turn raw data and AI ideas into deployed, producti
 
 ---
 
-## Let's work together
-Always open to talking about AI engineering or interesting problems, from a focused prototype to a full production build. If you have a data problem, an AI feature you want built, or a system that needs to move from idea to deployment, feel free to reach out.
-
-📫 **saniazaib329@gmail.com**
