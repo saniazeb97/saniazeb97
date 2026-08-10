@@ -1,4 +1,4 @@
-# Sania Zeb - Artificial Intelligence Engineer👋
+# Sania Zeb - Artificial Intelligence Engineer
 
 I help turn raw data and AI ideas into working, deployed systems — from LLM-powered chatbots and RAG pipelines to real-time computer vision on edge devices. 3 years building production AI systems, with a peer-reviewed publication in medical AI.
 
@@ -9,10 +9,10 @@ I help turn raw data and AI ideas into working, deployed systems — from LLM-po
 ---
 
 ## Selected work highlights
-- Digitized civil engineering drawings with **OCR + object detection**, automating manual quantity takeoff work
-- Deployed real-time computer vision to **Raspberry Pi edge devices** via MQTT for live camera inference
+- Digitized civil engineering drawings with OCR + object detection, automating manual quantity takeoff work
+- Deployed real-time computer vision to Raspberry Pi edge devices via MQTT for live camera inference
 - Fine-tuned LLMs (Mistral, Llama3, OpenAI, Azure-hosted) using PEFT techniques for domain-specific inference
-- Built and deployed an enterprise RAG search system
+- Built an enterprise RAG search system that cut response latency by 70%
 
 ---
 
