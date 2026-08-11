@@ -18,7 +18,7 @@ With 3 years of experience, I turn raw data and AI ideas into deployed, producti
 
 ## Projects
 
-### ➜ Conversational analytics agent
+### ✧ Conversational analytics agent
 **Problem:** Non-technical users needed to query live product data without writing SQL.
 **Built:** A LangChain agent that turns natural-language questions into live SQL queries against a MySQL database, with a Streamlit dashboard for visual analytics.
 **Stack:** `LangChain` `Tool Calling` `MySQL` `Streamlit`
@@ -30,7 +30,7 @@ With 3 years of experience, I turn raw data and AI ideas into deployed, producti
 **Stack:** `Whisper` `BERT` `DistilBERT` `FastAPI` `Streamlit`
 🔗 [View project](https://github.com/saniazeb97/sentiment-monitoring-of-tv-news-shows)
 
-### ➜ Deepfake video detection
+### ◈ Deepfake video detection
 **Problem:** Detecting manipulated video content through facial inconsistency analysis.
 **Built:** A CNN-LSTM pipeline analyzing frame-level facial features to flag deepfake video.
 **Stack:** `PyTorch` `VGG16` `LSTM` `OpenCV` `Streamlit`
