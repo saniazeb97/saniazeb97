@@ -18,13 +18,13 @@ With 3 years of experience, I turn raw data and AI ideas into deployed, producti
 
 ## Projects
 
-### ✧ Conversational analytics agent
+### ◈ Conversational analytics agent
 **Problem:** Non-technical users needed to query live product data without writing SQL.
 **Built:** A LangChain agent that turns natural-language questions into live SQL queries against a MySQL database, with a Streamlit dashboard for visual analytics.
 **Stack:** `LangChain` `Tool Calling` `MySQL` `Streamlit`
 🔗 [View project](https://github.com/saniazeb97/insightbot)
 
-### ➜ Real-time sentiment monitoring
+### ◈ Real-time sentiment monitoring
 **Problem:** A media client needed to track speaker sentiment across live TV broadcasts, in Urdu.
 **Built:** A pipeline that transcribes audio (Whisper), then classifies speaker sentiment per topic using fine-tuned BERT/DistilBERT models, served through a FastAPI backend.
 **Stack:** `Whisper` `BERT` `DistilBERT` `FastAPI` `Streamlit`
@@ -36,7 +36,7 @@ With 3 years of experience, I turn raw data and AI ideas into deployed, producti
 **Stack:** `PyTorch` `VGG16` `LSTM` `OpenCV` `Streamlit`
 🔗 [View project](https://github.com/saniazeb97/deepfake-detection-vgg16-lstm)
 
-### ➜ Multi-source data analysis & dashboards
+### ◈ Multi-source data analysis & dashboards
 **Problem:** A client wanted to understand how income, housing, and safety intersect across NYC boroughs.
 **Built:** Correlation analysis across Airbnb, Census, and NYPD datasets, with interactive Tableau dashboards for non-technical stakeholders.
 **Stack:** `Python` `Pandas` `Tableau`
