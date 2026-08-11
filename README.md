@@ -18,7 +18,7 @@ With 3 years of experience, I turn raw data and AI ideas into deployed, producti
 
 ## Projects
 
-### 🔹 Conversational analytics agent
+### Conversational analytics agent
 **Problem:** Non-technical users needed to query live product data without writing SQL.
 **Built:** A LangChain agent that turns natural-language questions into live SQL queries against a MySQL database, with a Streamlit dashboard for visual analytics.
 **Stack:** `LangChain` `Tool Calling` `MySQL` `Streamlit`
